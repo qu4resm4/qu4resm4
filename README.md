@@ -36,11 +36,11 @@
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
 </div>
 
 ### **Outras**:
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
-  <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
   <img align="center" alt="" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
