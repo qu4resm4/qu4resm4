@@ -4,9 +4,9 @@
 
 Atualmente atuo como **Desenvolvedor Full Stack**, mas minha principal área de interesse está no desenvolvimento backend. Tenho experiência trabalhando com Java, Spring Boot, PostgreSQL e TypeScript, além de uma forte familiaridade com conceitos de APIs, bancos de dados, algoritmos e arquitetura de software.
 
-Meu interesse por programação sempre esteve menos ligado às ferramentas e mais ao funcionamento das coisas. Gosto de entender como as coisas funcionam por debaixo dos pans, como sistemas são construídos, como componentes se comunicam, quais decisões arquiteturais foram tomadas e quais são os impactos dessas escolhas ao longo do tempo.
+Meu interesse por programação sempre esteve menos ligado às ferramentas e mais ao funcionamento das coisas. Gosto de entender como as coisas funcionam por debaixo dos panos, como sistemas são construídos, como componentes se comunicam, quais decisões arquiteturais foram tomadas e quais são os impactos dessas escolhas ao longo do tempo.
 
-Minha trajetória combina formação acadêmica, experiência profissional, projetos pessoais e os desafios da 42 Rio, experiências que reforçaram uma característica que considero uma das minhas maiores qualidades: a capacidade de aprender rapidamente novas tecnologias e me adaptar a diferentes contextos.
+Minha trajetória combina formação acadêmica, experiência profissional, projetos pessoais e os desafios da [42 Rio](https://42.rio/), experiências que reforçaram uma característica que considero uma das minhas maiores qualidades: a capacidade de aprender rapidamente novas tecnologias e me adaptar a diferentes contextos.
 
 Eu sou um desenvolvedor com forte base em **Desenvolvimento Web**, algoritmos e arquitetura de software, capaz de transitar entre diferentes tecnologias quando necessário.
 
@@ -14,7 +14,8 @@ Eu sou um desenvolvedor com forte base em **Desenvolvimento Web**, algoritmos e 
 
 ## 🚀 Sobre mim
 
-* 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+* 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela [UNISUAM](https://www.unisuam.edu.br/)
+* 🏊 Cadete da [42 Rio](https://42.rio/)
 * ⚓ Ex-Militar da Marinha do Brasil
 * 💼 Desenvolvedor Full Stack com foco em Backend
 
@@ -80,9 +81,9 @@ Aplicação desenvolvida em dupla durante a graduação em Análise e Desenvolvi
 O aplicativo combina funcionalidades de estante virtual de livros e rede social para leitores, permitindo interação entre usuários, compartilhamento de leituras e comunicação por chat. O projeto foi concluído em dezembro de 2024 e recebeu **avaliação máxima** na disciplina, sob orientação do professor [Bruno Cezario](https://www.linkedin.com/in/bruno-s-85440644/).
 
 
-O projeto nasceu como uma proposta multidisciplinar envolvendo desenvolvimento mobile, backend, banco de dados e experiência do usuário. A ideia evoluiu para além do ambiente acadêmico e foi submetida ao edital HUB RJ Startup da FAPERJ em 2025.
+O projeto nasceu como uma proposta multidisciplinar envolvendo desenvolvimento mobile, backend, banco de dados e experiência do usuário. A ideia evoluiu para além do ambiente acadêmico e foi submetida ao edital [HUB RJ Startup](https://www.faperj.br/rp/downloads/Edital_FAPERJ_N%C2%BA_04_2025_%E2%80%93_Programa_Startup_RJ_2025_Apoio_%C3%A0_Difus%C3%A3o_de_Ambiente_de_Inova%C3%A7%C3%A3o_em_Tecnologia_Digital_no_Estado_do_Rio_de_Janeiro.pdf) da [FAPERJ](https://www.faperj.br/) em 2025.
 
-A proposta foi aprovada nas etapas iniciais do programa e atualmente participa do processo de aceleração, recebendo mentorias voltadas para empreendedorismo, validação de produto e desenvolvimento de negócios.
+A proposta foi aprovada nas três fases do programa e atualmente participa do processo de aceleração, recebendo mentorias voltadas para empreendedorismo, validação de produto e desenvolvimento de negócios.
 
 
 **Conceitos aplicados**
@@ -104,13 +105,13 @@ A proposta foi aprovada nas etapas iniciais do programa e atualmente participa d
 
 > Hackathon • **Projeto Vencedor** • Porta de Entrada para o Mercado
 
-Projeto desenvolvido durante um hackathon promovido pelo Pólen, polo de inovação da UNISUAM.
+Projeto desenvolvido durante o hackathon da primeira Jornada da Inovação promovido pelo [Pólen](https://hotsite.unisuam.edu.br/polen/), polo de inovação da [UNISUAM](https://www.unisuam.edu.br/).
 
 A solução consistia em um assistente conversacional integrado à API oficial do WhatsApp e aos modelos da OpenAI, permitindo responder dúvidas de participantes de eventos de forma automatizada.
 
 O foco principal esteve na integração entre serviços externos, processamento de linguagem natural e automação de atendimento.
 
-Além da conquista da competição, o projeto resultou em uma oportunidade profissional como Desenvolvedor Full Stack na startup Chat Learning.
+Além da conquista da competição, o projeto resultou em uma oportunidade profissional como Desenvolvedor Full Stack na startup [Chat Learning](https://www.chatlearning.com.br/).
 
 **Conceitos aplicados**
 * Fluxo de agentes de IA
@@ -133,9 +134,9 @@ Além da conquista da competição, o projeto resultou em uma oportunidade profi
 
 > 42 Rio • Arquitetura de Software • **Grafos** • Algoritmos e Reusabilidade
 
-Projeto desenvolvido em dupla no currículo da 42 School com o objetivo de gerar, manipular e resolver labirintos.
+Projeto desenvolvido em dupla no novo currículo da [42 Rio](https://42.rio/) com o objetivo de gerar, manipular e resolver labirintos.
 
-Embora o projeto possuísse requisitos funcionais específicos, o foco principal do desenvolvimento foi a criação de uma arquitetura reutilizável que pudesse servir de base para projetos futuros, especialmente para o projeto Pac-Man do currículo.
+Embora o projeto possuísse requisitos funcionais específicos, o foco principal do desenvolvimento foi a criação de uma arquitetura reutilizável que pudesse servir de base para o futuro projeto [Pac-Man]().
 
 A biblioteca foi construída com forte preocupação em desacoplamento, experiência do desenvolvedor e extensibilidade. Estruturas centrais como labirintos, algoritmos e visualizadores foram abstraídas por meio de orientação a objetos, permitindo que diferentes implementações sejam utilizadas sem alterar o restante do sistema.
 
@@ -164,9 +165,9 @@ Além dos requisitos mínimos, o projeto oferece uma API consistente para geraç
 
 ### 🐍 [Python Piscine](https://github.com/qu4resm4/python_piscine_42school)
 
-> 42 Rio • Fundamentos de Programação • Evolução Técnica em Python
+> 42 Rio • Fundamentos de Programação • **Trilha de Python**
 
-Sequência de listas e projetos desenvolvidos durante a formação da 42 Rio com o objetivo de consolidar conhecimentos progressivamente, desde os fundamentos da linguagem até conceitos mais avançados de desenvolvimento de software.
+Sequência de listas e projetos desenvolvidos durante a formação da [42 Rio](https://42.rio/) com o objetivo de consolidar conhecimentos progressivamente, desde os fundamentos da linguagem até conceitos mais avançados de desenvolvimento de software.
 
 Ao longo do percurso foram explorados temas como programação orientada a objetos, design patterns, gerenciamento de dependências, validação de dados, modularização de aplicações e ferramentas de qualidade de código.
 
