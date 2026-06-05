@@ -70,6 +70,14 @@ Eu sou um desenvolvedor com forte base em **Desenvolvimento Web**, algoritmos e 
 
 ---
 
+## 💭 Filosofia
+[![](https://visitcount.itsvg.in/api?id=qu4resm4&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=435&lines=Aprendendo+a+cada+desafio%2C;crescendo+a+cada+passo.)](https://git.io/typing-svg)
+
+> Tecnologias podem ser aprendidas rapidamente. Bons fundamentos permanecem.
+
+---
+
 ## 📌 Projetos em Destaque
 
 ### 📚 [BookNook](https://github.com/qu4resm4/Booknook_match)
@@ -197,12 +205,3 @@ A Piscina de Python contribuiu para fortalecer conceitos fundamentais de engenha
 
 ## 📈 Estatísticas
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qu4resm4&bg_color=ebeee7&color=9e4c4c&line=4c6c9e&point=413e3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 💭 Filosofia
-
-Tecnologias podem ser aprendidas rapidamente. Bons fundamentos permanecem.
-
-[![](https://visitcount.itsvg.in/api?id=qu4resm4&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aprendendo+a+cada+desafio%2C;crescendo+a+cada+passo.)](https://git.io/typing-svg)
