@@ -152,7 +152,7 @@ Além dos requisitos mínimos, o projeto oferece uma API consistente para geraç
 
 O módulo [`mazegen`](https://github.com/qu4resm4/a-maze-ing42/blob/master/docs/0-INTRODUCAO.md) representa minha primeira biblioteca desenvolvida em Python. Apesar disso, ela não foi minha primeira experiência construindo bibliotecas reutilizáveis: esse aprendizado começou anteriormente com a [libft](https://github.com/qu4resm4/libft_42), minha primeiríssima biblioteca própria, uma biblioteca estática em C baseada em funções da libc (C Standard Library) e utilitários adicionais desenvolvida durante a formação na [42 Rio](https://42.rio/).
 
-A experiência adquirida com a [libft](https://github.com/qu4resm4/libft_42) influenciou diretamente as decisões tomadas no proejto [A-Maze-ing](https://github.com/qu4resm4/a-maze-ing42), especialmente no cuidado com organização do código, reutilização de componentes e validação de inputs.
+A experiência adquirida com a [libft](https://github.com/qu4resm4/libft_42) influenciou diretamente as decisões tomadas no projeto [A-Maze-ing](https://github.com/qu4resm4/a-maze-ing42), especialmente no cuidado com organização do código, reutilização de componentes e validação de inputs.
 
 **Conceitos aplicados**
 * Teoria dos Grafos
@@ -204,4 +204,15 @@ A Piscina de Python contribuiu para fortalecer conceitos fundamentais de engenha
 ---
 
 ## 📈 Estatísticas
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qu4resm4&bg_color=ebeee7&color=9e4c4c&line=4c6c9e&point=413e3e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qu4resm4&bg_color=ebeee7&color=9e4c4c&line=4c6c9e&point=413e3e&area=true&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qu4resm4&layout=donut" />
+  </a>
+</p>
