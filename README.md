@@ -113,7 +113,7 @@ A proposta foi aprovada nas três fases do programa e atualmente participa do pr
 
 > Hackathon • **Projeto Vencedor** • Porta de Entrada para o Mercado
 
-Projeto desenvolvido durante o hackathon da primeira Jornada da Inovação promovido pelo [Pólen](https://hotsite.unisuam.edu.br/polen/), polo de inovação da [UNISUAM](https://www.unisuam.edu.br/).
+Projeto desenvolvido durante o hackathon da primeira Jornada da Inovação promovido pelo [Pólen](https://hotsite.unisuam.edu.br/polen/) (polo de inovação da [UNISUAM](https://www.unisuam.edu.br/)) em parceria com a [Atitude247](https://atitude247.com/).
 
 A solução consistia em um assistente conversacional integrado à API oficial do WhatsApp e aos modelos da OpenAI, permitindo responder dúvidas de participantes de eventos de forma automatizada.
 
